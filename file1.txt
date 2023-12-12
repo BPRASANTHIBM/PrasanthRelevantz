@@ -8,3 +8,8 @@ king
 ball
 poll
 push
+jeep
+ring
+ping
+mail
+gear
